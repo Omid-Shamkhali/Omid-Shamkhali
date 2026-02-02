@@ -5,5 +5,5 @@
 
 ### Skills
 - HTML, CSS, JavaScript
-- LEearning React
+- Learning React
 - Git & GitHub
