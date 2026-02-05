@@ -21,10 +21,10 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/https://github.com/Omid-Shamkhali">
+  <a href="https://github.com/Omid-Shamkhali">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/omid-asadollahzadeh-shamkhali/">
+  <a href="https://linkedin.com/in/omid-asadollahzadeh-shamkhali/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
