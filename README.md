@@ -1,7 +1,7 @@
 
 
 💻 Front-end Developer  
-🚀 Interested in Web & JavaScript  
+🚀  Interested in Web Development & JavaScript  
  🌱 Currently learning **React.js**
 
 
