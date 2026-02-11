@@ -1,8 +1,9 @@
 
-🎯 Software Engineer
+🎯 Software Engineer  
 💻 Front-end Developer  
-🚀  Interested in Web Development & JavaScript  
- 🌱 Currently learning **React.js**
+🚀 Interested in Web Development & JavaScript  
+🌱 Currently learning React.js
+
 
 
 
