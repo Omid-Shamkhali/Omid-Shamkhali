@@ -7,7 +7,7 @@
 
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28" /> Skills & Technologies
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28" /> Skills & Technologies
 
 
 
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
-### 🌐 Connect with Me
+ 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Omid-Shamkhali">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
