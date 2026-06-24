@@ -1,3 +1,4 @@
+
 💻 Frontend Developer | HTML · CSS · JavaScript · Tailwind CSS
 🌱 Currently learning React.js
 🔍 Open to Junior Frontend Developer roles in Germany
