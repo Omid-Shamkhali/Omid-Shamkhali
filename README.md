@@ -1,7 +1,10 @@
 
 💻 Frontend Developer | HTML · CSS · JavaScript · Tailwind CSS
+
 🌱 Currently learning React.js
+
 🔍 Open to Junior Frontend Developer roles in Germany
+
 📁 Portfolio: omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/
 
 
