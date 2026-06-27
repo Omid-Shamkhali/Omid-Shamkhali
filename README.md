@@ -1,7 +1,7 @@
 ## Hi, I'm Omid 👋
 
 💻 Frontend Developer based in Germany  
-🛠 HTML · CSS · JavaScript · Tailwind CSS · Git  
+ HTML · CSS · JavaScript · Tailwind CSS · Git  
 🌱 Currently learning React.js  
 🔍 Open to Junior Frontend Developer roles in Germany  
 
