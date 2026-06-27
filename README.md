@@ -1,34 +1,32 @@
+## Hi, I'm Omid 👋
 
-💻 Frontend Developer | HTML · CSS · JavaScript · Tailwind CSS
+💻 Frontend Developer based in Germany  
+🛠 HTML · CSS · JavaScript · Tailwind CSS · Git  
+🌱 Currently learning React.js  
+🔍 Open to Junior Frontend Developer roles in Germany  
 
-🌱 Currently learning React.js
+---
 
-🔍 Open to Junior Frontend Developer roles in Germany
+### 🚀 Featured Projects
 
-📁 Portfolio: omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/
+| Project | Tech | Demo |
+|---|---|---|
+| ☕ Coffee Shop UI | HTML, Tailwind CSS, JS | [Live](https://omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/) |
+| 🌤 Weather App | JavaScript, REST API | [Live](https://omid-shamkhali.github.io/weather-app-api/) |
+| 🧩 Web Components | JS, Shadow DOM | [Live](https://omid-shamkhali.github.io/Component-Based-Frontend-JS/) |
+| 🛍 Product Catalog | Vanilla JS, URL Params | [Live](https://omid-shamkhali.github.io/frontend-product-page/) |
 
+---
 
+### 🛠 Skills
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28" /> Skills & Technologies
+---
 
-
-
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
-
- 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/Omid-Shamkhali">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/omid-asadollahzadeh-shamkhali/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+📫 [LinkedIn](https://linkedin.com/in/omid-asadollahzadeh-shamkhali/) · 
+[Portfolio](https://omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/)
