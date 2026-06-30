@@ -11,7 +11,7 @@
 
 | Project | Tech | Demo |
 |---|---|---|
-| ☕ Coffee Shop UI | HTML, Tailwind CSS, JS | [Live](https://omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/) |
+|  Coffee Shop UI | HTML, Tailwind CSS, JS | [Live](https://omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/) |
 |  Weather App | JavaScript, REST API | [Live](https://omid-shamkhali.github.io/weather-app-api/) |
 |  Web Components | JS, Shadow DOM | [Live](https://omid-shamkhali.github.io/Component-Based-Frontend-JS/) |
 |  Product Catalog | Vanilla JS, URL Params | [Live](https://omid-shamkhali.github.io/frontend-product-page/) |
