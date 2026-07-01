@@ -28,5 +28,5 @@
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/omid-asadollahzadeh-shamkhali/) · 
+ [LinkedIn](https://linkedin.com/in/omid-asadollahzadeh-shamkhali/) · 
 [Portfolio](https://omid-shamkhali.github.io/Tailwind-Coffee-Shop/public/)
